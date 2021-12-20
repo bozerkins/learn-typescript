@@ -29,7 +29,7 @@ Those tools provide for better learning experience for how applications are run 
 
 This is currently the preferred way of working on Windows.
 
-### Install WSL 2. This is a simple step, as it's a single command in PowerShell
+### Install WSL 2
 This command will enable the required optional components, download the latest Linux kernel, set WSL 2 as your default, and install a Linux distribution for you (Ubuntu by default, see below to change this).<br>
 https://docs.microsoft.com/en-us/windows/wsl/install#install
 
