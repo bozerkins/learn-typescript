@@ -23,7 +23,7 @@ Those tools provide for better learning experience for how applications are run 
 
 * WSL 2 - Linux-subsystem for Windows. Optional, Recommended. <br> https://docs.microsoft.com/en-us/windows/wsl/about
 * Remote WSL - Visual Studio Code extension to work with WSL. Optional, Recommended. <br> https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
-
+* Windows Terminal <br> https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 
 ## Installation steps - Windows
 
