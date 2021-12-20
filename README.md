@@ -32,7 +32,7 @@ This command will enable the required optional components, download the latest L
 https://docs.microsoft.com/en-us/windows/wsl/install#install
 
 ### Create WSL user
-Open PowerShell and type ```wsl```. This will log you into the wsl system. Configure your creadentials (create user and password), then continue to the next step.
+Open PowerShell and type ```wsl```. This will log you into the wsl system. 
 ### Install Node Version Manager inside the WSL
 Go into ```wsl``` terminal and run this code
 ```bash
