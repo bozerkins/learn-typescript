@@ -13,7 +13,7 @@ MacOS and Linux distributions are inherently unix-like. Windows 10+ has WSL 2 su
 ## Tools we will be using throughout the learning
 
 * Visual Studio Code - code editor for programming. Required, works on all platformws <br> https://code.visualstudio.com/
-* NodeJS compiler with Node Version Manager - a compiler for NodeJS (which TypeScript is based on). Required, works on all playforms <br> 
+* Node.JS compiler with Node Version Manager - a compiler for Node.JS (which TypeScript is based on). Required, works on all playforms <br> 
 https://nodejs.org/en/ <br> 
 https://github.com/nvm-sh/nvm#installing-and-updating
 
@@ -33,16 +33,16 @@ This is currently the preferred way of working on Windows.
 This command will enable the required optional components, download the latest Linux kernel, set WSL 2 as your default, and install a Linux distribution for you (Ubuntu by default, see below to change this).<br>
 https://docs.microsoft.com/en-us/windows/wsl/install#install
 
-### Install Visual Studio Code. 
+### Install Visual Studio Code
 https://code.visualstudio.com/
 
-### Install Remote WSL extension. 
+### Install Remote WSL extension 
 https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
 
 ### Create WSL user
 Open PowerShell and type ```wsl```. This will log you into the wsl system. Configure your creadentials (create user and password), then continue to the next step.
 
-### Install Node Version Manager inside the WSL.
+### Install Node Version Manager inside the WSL
 Go into ```wsl``` terminal and run this code
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
